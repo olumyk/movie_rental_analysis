@@ -1,23 +1,8 @@
-#                               SQL Assignment - Movie Analysis
-
-        ########################################################################
-        #   Weighting 2.5%, 57 points in total                                 #
-        #   Structure:                                                         #
-        # - Exercise 1                                                         #
-        # - Exercise 2                                                         #
-        # - Exercise 3                                                         #
-        # -------------------------------------------------------------------- #x
-        #   Please keep the following in mind:                                 #
-        # - Is the code organized such that it is easy to read/understandable? #
-        # - Is documentation (where needed) included?                          #
-        # - Code quality/efficiency/logic                                      #
-        # - One query per question                                             #
-        ########################################################################
-
+#                               SQL Movie Analysis
 
 # Manage a chain of Movie Rental Stores
 # Introduction
-# -Data: Dataset download link: https://weclouddata.s3.amazonaws.com/datasets/movie_rental_sakila.zip
+# -Data: see attached
     # In this project, you will write more advanced queries on a database designed to resemble a real-world database system - MySQL’s Sakila Sample Database.
     # The development of the Sakila sample database began in early 2005. Early designs were based on the database used in the Dell whitepaper (Three Approaches to MySQL Applications on Dell PowerEdge Servers).
     # The Sakila sample database is designed to represent a DVD rental store. The Sakila sample database still borrows film and actor names from the Dell sample database.
